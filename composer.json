@@ -1,6 +1,6 @@
 {
-    "name": "tomlerendu/laravel-convert-case-middleware",
-    "version": "1.1.3",
+    "name": "gnarhard/laravel-convert-case-middleware",
+    "version": "1.2.0",
     "description": "Convert request and response keys to and from camel and snake case.",
     "type": "library",
     "require": {
@@ -17,6 +17,10 @@
         {
             "name": "Tom Lerendu",
             "email": "tom.lerendu@gmail.com"
+        },
+        {
+            "name": "Grayson Erhard",
+            "email": "develop@graysonerhard.com"
         }
     ],
     "autoload": {
