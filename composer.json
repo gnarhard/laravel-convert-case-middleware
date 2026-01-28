@@ -1,16 +1,16 @@
 {
     "name": "gnarhard/laravel-convert-case-middleware",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Convert request and response keys to and from camel and snake case.",
     "type": "library",
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^12.0",
         "ext-json": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^10.0",
-        "pestphp/pest": "^2.34"
+        "phpunit/phpunit": "^12.5",
+        "pestphp/pest": "^4.3"
     },
     "license": "MIT",
     "authors": [
